@@ -54,7 +54,7 @@ AES encryption implementation.
 
 Full project documentation, flowcharts, and presentation slides are included 
 
-in this repo (`Documentation.docx`, `FlowChart.png`, `Block Diagram.png`, `Presentation.pptx`).
+in this repo (`Documentation.docx`, `Presentation.pptx`).
 
 
 
