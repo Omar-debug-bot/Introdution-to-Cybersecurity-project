@@ -52,7 +52,7 @@ AES encryption implementation.
 
 \## Documentation
 
-Full project documentation, flowcharts, and presentation slides are included 
+Full project documentation, presentation slides are included 
 
 in this repo (`Documentation.docx`, `Presentation.pptx`).
 
