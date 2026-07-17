@@ -18,6 +18,8 @@ Messages are secured using AES encryption, and the app supports group chat funct
 
 \- AES Encryption (PyCryptodome)
 
+\- SHA-256 Password Hashing
+
 \- HTML/CSS/JS (front-end)
 
 
@@ -32,6 +34,7 @@ Messages are secured using AES encryption, and the app supports group chat funct
 
 \- Simple, lightweight web interface
 
+\-- Password hashing with SHA-256 for secure user authentication
 
 
 \## About This Project
@@ -46,15 +49,15 @@ AES encryption implementation.
 
 
 
-\*\*Team members:\*\* \[Omar](https://github.com/Omar-debug-bot), \[Seif Yasser](https://github.com/seifyasser264-ship-it)
+**Team members:** [Omar](https://github.com/Omar-debug-bot), [Seif Yasser](https://github.com/seifyasser264-ship-it)
 
 
 
 \## Documentation
 
-Full project documentation, flowcharts, and presentation slides are included 
+Full project documentation, presentation slides are included 
 
-in this repo (`Documentation.docx`, `FlowChart.png`, `Block Diagram.png`, `Presentation.pptx`).
+in this repo (`Documentation.docx`, `Presentation.pptx`, `implementation.mp4` ).
 
 
 
